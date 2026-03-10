@@ -18,13 +18,13 @@ python -m pip install -r requirements.txt
 To run basic transformation, run:
 
 ```basic
-python run_global_transform.py
+python global_transform.py
 ```
 
 To run point guided transformation, run:
 
 ```point
-python run_point_transform.py
+python point_transform.py
 ```
 
 ## Results (need add more result images)
